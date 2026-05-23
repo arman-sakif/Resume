@@ -1,4 +1,4 @@
-# Public Resume Hosting
+# Resume Hosting
 
 This repository is used to host and serve my professional resume via GitHub Pages. By maintaining this setup, I can ensure that recruiters, hiring managers, and professional connections always have access to the most up-to-date version of my resume through a single, static URL.
 
